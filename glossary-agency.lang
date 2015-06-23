@@ -1,0 +1,1728 @@
+;"hero" flag
+raaya "hero"
+
+
+;(the) search
+ceet gi
+
+
+;abort
+dakkal
+
+
+;About…
+Lu jëm ci…
+
+
+;absent
+nekku fi
+
+
+;add
+yokk
+
+
+;add-on
+yokk-ci
+
+
+;address
+nekkuwaay
+
+
+;adjust
+tollale
+
+
+;admin tools
+jumtukaayi yorkat bi
+
+
+;alert
+àrtu
+
+
+;Android tablet app
+jëfekaayu tabletu Android
+
+
+;animation
+animaasiyoŋ
+
+
+;app developer
+defartkatu jëfekaay
+
+
+;app(s)
+jëfekaay(yi)
+
+
+;application picker
+jëlkatu jëfekaay
+
+
+;application preference
+taamuy jëfekaay
+
+
+;application/app
+Jëfekaay/jëfekaay
+
+
+;async
+async
+
+
+;attachment
+yóbbal
+
+
+;attribute
+jagleel
+
+
+;audio
+ojo
+
+
+;authentication
+ràññee
+
+
+;auto-escalation
+yéegal-boppam
+
+
+;backspace
+faase
+
+
+;banned
+luñ bañ
+
+
+;binary
+bineer
+
+
+;block (n)
+tere (n)
+
+
+;block (v)
+tere (v)
+
+
+;blocklisted app
+Jëfekaay biñ tere
+
+
+;body
+jëmm
+
+
+;bold
+dijj
+
+
+;bookmark
+xàmmetéere
+
+
+;box
+boyet
+
+
+;browse
+lëñbat
+
+
+;browsing
+lëñbat gi
+
+
+;browsing…
+mingi lëñbat…
+
+
+;build
+tabax
+
+
+;button
+bitoŋ
+
+
+;cache
+nëbb
+
+
+;cache/cached
+nëbb/liñ nëbb
+
+
+;calculator
+xaymakaay
+
+
+;calendar
+arminaat
+
+
+;call
+woote
+
+
+;callbacks
+woowaat
+
+
+;cancel
+bàyyi
+
+
+;canned response
+tontu luñ denc
+
+
+;caption
+nataalu tegtal
+
+
+;carrier
+indikat
+
+
+;change
+soppi
+
+
+;chargeback
+fayloo
+
+
+;chart
+garafik
+
+
+;check
+def xàmmekaay
+
+
+;check box
+boyetu def xàmmekaay
+
+
+;checking…
+mingi def xàmmekaay…
+
+
+;clear
+fomp
+
+
+;ClearType
+Xeetu Fomp
+
+
+;click
+bës
+
+
+;close
+tëj
+
+
+;collapse
+tuutal
+
+
+;compatibility
+mëna-ànd
+
+
+;compose
+bind
+
+
+;composer
+bindkat
+
+
+;compromise
+gàlaŋkoor
+
+
+;configuration
+tëralin
+
+
+;configure
+tëral
+
+
+;connect
+lënku
+
+
+;connect (to)
+lënku (ci)
+
+
+;connecting…
+mingi lënku…
+
+
+;connection
+lënku gi
+
+
+;connectivity
+ag lënku
+
+
+;context menu
+leerali bës-ndijoor
+
+
+;continue
+wéy
+
+
+;contributor
+yokkukat
+
+
+;convert
+soppi
+
+
+;cookie
+kuki
+
+
+;copy
+duppi
+
+
+;correct
+jubbanti
+
+
+;coverage
+jote
+
+
+;crash
+yàq
+
+
+;crop
+dagg
+
+
+;curation tool
+jumtukaayi wéral
+
+
+;curator
+denckat
+
+
+;custom
+laalaat
+
+
+;custom(ed)
+buñ laalaat
+
+
+;customization
+laalaat gi
+
+
+;customize
+laalaat
+
+
+;data
+njoxe
+
+
+;debug
+dindi gagte
+
+
+;debugging
+dindi gagte gi
+
+
+;default
+baaxoo
+
+
+;defaults
+baaxoo yi
+
+
+;delete
+far
+
+
+;deliver
+joxe
+
+
+;depersonalisation
+bañ-jagleen
+
+
+;deploy / deploying
+tallal / tallal gi
+
+
+;describe
+tegtal
+
+
+;description
+tegtal gi
+
+
+;desktop add-ons
+yokkaaley biro
+
+
+;destination folder
+këmb ba mu jëm
+
+
+;details
+leeral yi
+
+
+;detect
+gis
+
+
+;devtools
+jumtuk-defar
+
+
+;dial
+tàpe nimero
+
+
+;disable
+dakkal
+
+
+;discard
+dàq
+
+
+;disconnect (from)
+lonkee
+
+
+;distribute
+séddale
+
+
+;domain
+wàll
+
+
+;done
+sotti na
+
+
+;download
+yebbi
+
+
+;downloading (process)
+yebbi gi
+
+
+;downloads
+yebbi yi
+
+
+;drafts
+deñcandi
+
+
+;duplicate
+ñaarte
+
+
+;edit
+soppi
+
+
+;e-mail / mail
+e-bataaxal / bataaxal
+
+
+;enable
+doxal
+
+
+;encrypt
+cax
+
+
+;end-user
+jëfandikukat bi
+
+
+;enhance
+gën a baaxal
+
+
+;erase
+far
+
+
+;erasure
+far gi
+
+
+;error
+njuumte
+
+
+;error connecting
+njuumteg lënku
+
+
+;error console
+njuumteg konsol
+
+
+;escalated
+luñ yéegal
+
+
+;establish
+taxawal
+
+
+;event / events
+xew-xew / xew-xew yi
+
+
+;exception
+yi ci bookul
+
+
+;exit
+génn
+
+
+;expand
+rëyal
+
+
+;experimental
+jéemantal
+
+
+;expire
+jeex
+
+
+;explore
+wër
+
+
+;fail
+bañ
+
+
+;failed (to connect)
+bañna (lënku)
+
+
+;failing
+bañ gi
+
+
+;feature
+man-man
+
+
+;fetching (data)
+seet gi (njoxe)
+
+
+;field
+tool
+
+
+;file
+taxañ
+
+
+;filter
+seggukaay
+
+
+;find
+seet
+
+
+;finder
+seetukaay
+
+
+;flagged note (e-mail)
+karmat yuñ def raaya (e-bataaxal)
+
+
+;flexibility
+jàppandal
+
+
+;focus chat
+waxtaane mbir
+
+
+;folder
+këmb
+
+
+;footer
+tànk
+
+
+;forgery
+tënk
+
+
+;format (v)
+tëggin (v)
+
+
+;forward
+wéyale
+
+
+;forwarding
+wéyale gi
+
+
+;frame
+kaadar
+
+
+;free (space)
+feex (bayaal)
+
+
+;free up space
+feexal bayaal
+
+
+;gallery
+kàggu nataal
+
+
+;gamepad
+manet
+
+
+;geolocation
+wëree ci satelit
+
+
+;graphics
+grafik yi
+
+
+;grid
+giriyaas
+
+
+;hang up
+rakrose
+
+
+;hardware
+aparey
+
+
+;header
+bopp
+
+
+;height
+njoolaay
+
+
+;hellip
+hellip
+
+
+;hexadecimal
+egsadisimal
+
+
+;hide
+nëbb
+
+
+;high abuse reports
+nettaliy tooñ gu mag
+
+
+;history
+jaar-jaar
+
+
+;host
+dalal
+
+
+;hotspot
+barabu-lënku
+
+
+;icon
+junj
+
+
+;identification
+ràññee gi
+
+
+;identifier
+ràññeekaay
+
+
+;identify
+rànnee
+
+
+;image
+nataal
+
+
+;impersonate
+nëbb-tur
+
+
+;in-app payments
+fay jëfekaay yim àndaale
+
+
+;incoming
+liy dugg
+
+
+;incorrect
+li jubul
+
+
+;index
+lim
+
+
+;inform
+yëgal
+
+
+;information
+leeral yi
+
+
+;initialise
+defaruwaat
+
+
+;input method
+anamu njoxe
+
+
+;insert
+roof
+
+
+;installer
+sampukaay
+
+
+;installs
+dafay samp
+
+
+;integer
+ancee
+
+
+;interface
+enterfaas
+
+
+;internet
+internet
+
+
+;internet connection
+lënkug internet
+
+
+;invalid
+baaxul
+
+
+;italic
+weng
+
+
+;join
+bokk
+
+
+;keypad
+arafukaay
+
+
+;label
+tur
+
+
+;last (updated)
+mujj (liñ yeesal)
+
+
+;latest
+gën bees
+
+
+;launch (v)
+dawal (v)
+
+
+;licensing information
+leerali daganal
+
+
+;limit
+àpp
+
+
+;link / unlink
+lëkkale / tàqale
+
+
+;list
+lim
+
+
+;load
+yab
+
+
+;locale
+barab
+
+
+;location
+nekkuwaay
+
+
+;location aware browsing
+lëñbat ci barab buñ xam
+
+
+;lock
+tëj
+
+
+;locked
+tëju
+
+
+;log
+làq
+
+
+;log out
+génn
+
+
+;login / log in
+dugg / dugg
+
+
+;lookup tools
+jumtukaayi seet
+
+
+;low (battery)
+jeex (batiri)
+
+
+;maintenance
+jekkalaat
+
+
+;manage (v)
+saytu (v)
+
+
+;manual
+defal sa bopp
+
+
+;Marketplace
+Marse
+
+
+;match (n)
+méngoo (n)
+
+
+;match (v)
+méngale (v)
+
+
+;matching
+ag méngoo
+
+
+;menu
+njël
+
+
+;merge
+boole
+
+
+;missed call
+woote guñ wuyyuwul
+
+
+;mode
+anam
+
+
+;modify
+soppi
+
+
+;monospace
+benn barab
+
+
+;mute
+tekkaaral
+
+
+;Namaste!
+Namaste!
+
+
+;name
+tur
+
+
+;navigate
+joowu
+
+
+;offline
+nekkul ci internet
+
+
+;OK
+Waaw Kay
+
+
+;online
+nekk ci internet
+
+
+;open
+ubbi
+
+
+;open source license
+ubbi sañ-sañu cosaan
+
+
+;operating system
+doxalukaay
+
+
+;operation
+doxal
+
+
+;operator dashboard
+jumtukaayi liggéeykat
+
+
+;operator shelf
+dencukaayu liggéeykat
+
+
+;option
+tànneef
+
+
+;outgoing
+génn
+
+
+;overlay
+gëna fës
+
+
+;override
+jeggi
+
+
+;page
+xët
+
+
+;pair
+boole
+
+
+;pairing
+booloo
+
+
+;parental control
+saytug waajur
+
+
+;passkey
+caabi-jàll
+
+
+;path
+yoon
+
+
+;pause
+taxawal
+
+
+;persona
+nit
+
+
+;personalisation
+niteel
+
+
+;picture
+nataal
+
+
+;pin
+kepp
+
+
+;pipe
+tiyo
+
+
+;plug-in
+plug-in
+
+
+;pop-up
+pop-up
+
+
+;post (v)
+siiwal (v)
+
+
+;postpaid
+faysiiwal
+
+
+;premium app
+jëfekaayu bu baax
+
+
+;prepaid
+fay ba noppi
+
+
+;preview
+wonandi
+
+
+;preview (n)
+wonandi gi (n)
+
+
+;preview (v)
+wonandi (v)
+
+
+;previous / next diff
+wuutu gu jiitu / gi topp
+
+
+;print preview
+wonandi móol
+
+
+;priority
+ëpp solo
+
+
+;private policy
+sàrtu sutura
+
+
+;privilege / privileged
+ber loxo / beral loxo
+
+
+;process
+liggéey
+
+
+;profile
+bennalin
+
+
+;promo collection
+dajale xéewal
+
+
+;property
+moomeel
+
+
+;quit
+bàyyi
+
+
+;range
+ngiir
+
+
+;rate
+natt
+
+
+;rating
+ag natt
+
+
+;reboot
+fay-taalaat
+
+
+;recommendation
+denkaane
+
+
+;redo
+defaat
+
+
+;reference
+royuwaay
+
+
+;relevance
+yanu-maanaa
+
+
+;reload
+yabaat
+
+
+;remote web console
+manetu web bu sori
+
+
+;remote=
+sori=
+
+
+;remove
+dindi
+
+
+;rename
+soppi tur
+
+
+;report
+nettali
+
+
+;re-reviewed
+jàngataat
+
+
+;research
+gëstu
+
+
+;resend
+yónneewaat
+
+
+;reset
+delloo
+
+
+;resize
+dayolaat
+
+
+;restart
+dooraat
+
+
+;restore
+delloosi
+
+
+;resume
+tàmbaliwaat
+
+
+;retake
+jëlaat
+
+
+;retrieve
+dindi
+
+
+;retry
+jéemaat
+
+
+;revenue
+lim jur
+
+
+;re-verification
+saytuwaat
+
+
+;review  (review a license)
+jàngat  (jàngat ab daganal)
+
+
+;review (general)
+jàngal (lépp)
+
+
+;review queue
+rangub jàngat
+
+
+;reviewer tools
+jumtukaayi jàngatkat
+
+
+;revoke
+dakkal
+
+
+;risk
+wóoradi
+
+
+;roaming
+jàll-réew
+
+
+;run
+daw
+
+
+;run out of (memory)
+feesna (xel mi)
+
+
+;save image
+denc nataal
+
+
+;scan
+càmbar
+
+
+;script
+bind
+
+
+;search
+seet
+
+
+;search (for the file)
+seet (ab taxañ)
+
+
+;search (the file)
+seet (ab taxañ)
+
+
+;select
+tann
+
+
+;selection
+tànneef
+
+
+;self-reviews
+jàngatal sa bopp
+
+
+;sender
+yónneekat
+
+
+;serif
+serif
+
+
+;server
+cëraakon
+
+
+;session
+sesiyoŋ
+
+
+;set
+def
+
+
+;set up
+samp
+
+
+;Share-Alike License
+Séddoo Daganal bu Nuroo
+
+
+;sheet
+këyit
+
+
+;shortcut
+ñàll
+
+
+;show
+wone
+
+
+;sidebar
+laatu wet
+
+
+;sign in
+dugg
+
+
+;sign out
+génn
+
+
+;sign up
+bindu
+
+
+;site
+dal
+
+
+;size
+dayo
+
+
+;skip
+tëb
+
+
+;snooze
+nelawandi
+
+
+;social toolbar button
+botoñu xoccu penc
+
+
+;software
+losisel
+
+
+;sort code
+kotu xàjjale
+
+
+;source software
+losisel bim cosaanoo
+
+
+;speech-to-text
+kàddu-defko-mbind
+
+
+;stack
+dajale
+
+
+;stack overflow
+dajale lu ëpp
+
+
+;start
+tàmbali
+
+
+;statement
+biral
+
+
+;stop
+dakkal
+
+
+;storage
+dencukaay
+
+
+;store
+denc
+
+
+;stored
+liñ denc
+
+
+;string
+buum
+
+
+;study
+jàng
+
+
+;submission failed
+joxe gu àntuwul
+
+
+;subscribe / subscription
+bindu / bindu gi
+
+
+;suggestion
+xalaat
+
+
+;suspend
+aj
+
+
+;swipe
+faxas
+
+
+;switch
+jàll
+
+
+;sync
+lëkkalante
+
+
+;synced tabs
+laf yiñ lëkkalante
+
+
+;tab
+laf
+
+
+;tag
+xàmme
+
+
+;tagged
+liñ xàmme
+
+
+;tamper
+dalal
+
+
+;tap
+tàpp
+
+
+;TCP socket
+piriisu TCP
+
+
+;technical
+xereñ
+
+
+;telephone
+telefon
+
+
+;template
+royukaay
+
+
+;tethering on/off
+takk taal/fay
+
+
+;tethering settings
+jekkali takk
+
+
+;text
+mbind
+
+
+;thread
+buumug jokkale
+
+
+;time out
+waxtu wu jeexal
+
+
+;timed out
+liñ jeexal waxtoom
+
+
+;timer
+waxtukaay
+
+
+;title
+tur
+
+
+;toggle
+yéegal / wàcce
+
+
+;top-up
+kawe
+
+
+;touch
+capp
+
+
+;touch ("touch screen")
+capp ("ekaraŋu capp")
+
+
+;tracking
+topp
+
+
+;trademark
+mark
+
+
+;transfer (file)
+toxal (taxañ)
+
+
+;trigger
+doxalukaay
+
+
+;troubleshooter
+saafarakat
+
+
+;troubleshooting
+saafara
+
+
+;unable (to connect)
+ñàkk a mën (lënku)
+
+
+;unblock
+bàyyi naj gi
+
+
+;unbookmark
+dindi xamme-téere
+
+
+;uncompressing
+tàqala
+
+
+;undo
+dindi
+
+
+;Unicode
+Benn-kot
+
+
+;unicode
+benn-kot
+
+
+;uninstall
+simpi
+
+
+;unlink
+téqale
+
+
+;unlock
+tijji
+
+
+;unlocking key
+baatu-tijji
+
+
+;unmerge
+booleedi
+
+
+;unmute
+waxloo
+
+
+;unpair
+tàqale
+
+
+;unpin
+keppi
+
+
+;unselect / deselect
+tànnadi / dindi tànneef
+
+
+;unsubscribe
+dakkalug bindu
+
+
+;up to date
+yees
+
+
+;update (n)
+yeesal (n)
+
+
+;update (v)
+yeesal (v)
+
+
+;updated
+liñ yeesal
+
+
+;URL
+URL
+
+
+;user
+jëfandikukat
+
+
+;utilities
+njariñal
+
+
+;utility
+njariñ
+
+
+;validation report
+nettalib daganal
+
+
+;vendor
+jaaykat
+
+
+;version
+sumb
+
+
+;view
+wone
+
+
+;voicemail
+bataaxalu kàddu
+
+
+;wall post
+siiwal ci miir
+
+
+;web
+web
+
+
+;web speech recognition
+xàmme kàddu ci web
+
+
+;web speech synthesis
+tënk kàddu ci web
+
+
+;webM
+webM
+
+
+;website
+daluweb
+
+
+;widget
+widget
+
+
+;width
+yaatuwaay
+
+
+;window
+polanteer
+
+
+;withhold / withheld
+tëye / liñ tëye
+
+
+;wrap / unwrap (text)
+solal / simmi (mbind)
+
+
